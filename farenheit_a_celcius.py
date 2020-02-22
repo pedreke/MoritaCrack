@@ -1,7 +1,5 @@
 medicion = input("En que medición tienes tus datos?  (Fahrenheit / Celsius): ").upper()
 
-
-
 if medicion == "FAHRENHEIT":
     grados = int(input("Ingresa tus grados {}: ".format(medicion)))
     resultado = (grados - 32) / 1.8
