@@ -1,5 +1,5 @@
 
-numero_inicial = 10
+numero_inicial =
 
 while numero_inicial > 0:
     print(numero_inicial)
@@ -9,3 +9,4 @@ while numero_inicial > 0:
     else:
         print("este numero es impar")
 
+input()

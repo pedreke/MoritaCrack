@@ -20,6 +20,7 @@ if operador == "MULTIPLICACIÓN":
 if operador == "DIVISIÓN":
     print(primer_numero / segundo_numero)
     print("Operación terminada")
+input()
 
 
 

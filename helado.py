@@ -25,3 +25,4 @@ if apetece_helado and puedes_comprarlo and hay_heladero:
     print("Pues compra")
 else:
     print("Comamos otra cosa")
+input()
